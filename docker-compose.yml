@@ -1,0 +1,16 @@
+services:
+  socialcue:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: socialcue:latest
+    ports:
+      - "8000:8000"
+    # Optional: if backend/.env is absent (e.g. a fresh clone where it is
+    # git-ignored) the app still boots. MOCK_MODE defaults to true in code, so
+    # `docker compose up --build` runs the full flow with zero key, first try.
+    # Drop a backend/.env (see backend/.env.example) to enable live OpenAI.
+    env_file:
+      - path: ./backend/.env
+        required: false
+    restart: unless-stopped
