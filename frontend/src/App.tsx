@@ -2,6 +2,7 @@ import { useEffect, useState } from "react";
 import { api } from "./api";
 import { DraftView } from "./components/DraftView";
 import { OpportunityCard } from "./components/OpportunityCard";
+import { PostDetail } from "./components/PostDetail";
 import { WeekCalendar } from "./components/WeekCalendar";
 import { WeightsDrawer } from "./components/WeightsDrawer";
 import { Button, Spinner } from "./components/ui";
@@ -29,6 +30,7 @@ export default function App() {
 
   const [calendar, setCalendar] = useState<ApprovedPost[]>([]);
   const [publishingId, setPublishingId] = useState<string | null>(null);
+  const [viewingId, setViewingId] = useState<string | null>(null);
   const [drawerOpen, setDrawerOpen] = useState(false);
 
   const [toast, setToast] = useState<string | null>(null);
@@ -207,6 +209,7 @@ export default function App() {
                 posts={calendar}
                 onPublish={publish}
                 publishingId={publishingId}
+                onView={(p) => setViewingId(p.id)}
               />
             </section>
           </>
@@ -225,6 +228,20 @@ export default function App() {
           }}
         />
       )}
+
+      {(() => {
+        const viewingPost = viewingId
+          ? calendar.find((p) => p.id === viewingId) ?? null
+          : null;
+        return viewingPost ? (
+          <PostDetail
+            post={viewingPost}
+            onClose={() => setViewingId(null)}
+            onPublish={publish}
+            publishing={publishingId === viewingPost.id}
+          />
+        ) : null;
+      })()}
 
       {weights && (
         <WeightsDrawer
