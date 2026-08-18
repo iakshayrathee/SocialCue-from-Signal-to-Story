@@ -11,12 +11,19 @@ const OBJECTIVE_STYLES: Record<Objective, string> = {
   Conversion: "bg-amber-50 text-amber-700 ring-amber-200",
 };
 
-export function ObjectiveBadge({ objective }: { objective: Objective }) {
+export function ObjectiveBadge({
+  objective,
+  className,
+}: {
+  objective: Objective;
+  className?: string;
+}) {
   return (
     <span
       className={cx(
-        "inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-semibold ring-1 ring-inset",
+        "inline-flex max-w-full items-center rounded-full px-2.5 py-0.5 text-xs font-semibold ring-1 ring-inset",
         OBJECTIVE_STYLES[objective],
+        className,
       )}
     >
       {objective}

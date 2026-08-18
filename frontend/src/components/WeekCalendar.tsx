@@ -65,9 +65,12 @@ function CalendarCard({
         published ? "border-emerald-200 bg-emerald-50/60" : "border-slate-200 bg-white",
       )}
     >
-      <div className="flex items-center justify-between">
-        <span className="text-[11px] font-semibold text-slate-500">{post.slot.time}</span>
-        <ObjectiveBadge objective={post.opportunity.objective} />
+      <div className="flex flex-wrap items-center justify-between gap-x-2 gap-y-1">
+        <span className="shrink-0 text-[11px] font-semibold text-slate-500">{post.slot.time}</span>
+        <ObjectiveBadge
+          objective={post.opportunity.objective}
+          className="!px-2 text-[10px]"
+        />
       </div>
       <div className="mt-1 line-clamp-2 text-xs font-semibold text-ink">
         {post.opportunity.title}
