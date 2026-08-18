@@ -1,0 +1,50 @@
+[
+  {
+    "id": "prod_barrier_serum",
+    "name": "Barrier Repair Serum",
+    "description": "A lightweight niacinamide + ceramide serum that calms redness and rebuilds a stressed skin barrier.",
+    "key_benefits": ["Reduces visible redness", "Strengthens skin barrier", "Lightweight, layers well"],
+    "price": 38.0,
+    "tags": ["serum", "barrier", "niacinamide", "sensitive-skin", "hero"]
+  },
+  {
+    "id": "prod_gentle_cleanser",
+    "name": "Gentle Gel Cleanser",
+    "description": "A pH-balanced gel cleanser that removes the day without stripping or tightness.",
+    "key_benefits": ["Non-stripping", "pH balanced", "Good for daily use"],
+    "price": 22.0,
+    "tags": ["cleanser", "daily", "gentle", "starter"]
+  },
+  {
+    "id": "prod_refill_moisturizer",
+    "name": "Everyday Moisturizer (Refillable)",
+    "description": "A daily gel-cream in a refillable aluminum pod. Buy the pod once, refill for less waste and less cost.",
+    "key_benefits": ["Refillable, less waste", "72-hour hydration", "Fragrance-free"],
+    "price": 30.0,
+    "tags": ["moisturizer", "refillable", "sustainability", "hero"]
+  },
+  {
+    "id": "prod_spf_fluid",
+    "name": "Invisible SPF 50 Fluid",
+    "description": "A weightless mineral-hybrid SPF 50 with no white cast, made for daily wear under makeup.",
+    "key_benefits": ["No white cast", "SPF 50", "Sits well under makeup"],
+    "price": 34.0,
+    "tags": ["spf", "sunscreen", "daily", "protection"]
+  },
+  {
+    "id": "prod_overnight_mask",
+    "name": "Overnight Recovery Mask",
+    "description": "A rich squalane + panthenol sleeping mask that restores dry, tired skin by morning.",
+    "key_benefits": ["Deep overnight hydration", "Squalane + panthenol", "Wake up plump"],
+    "price": 42.0,
+    "tags": ["mask", "overnight", "hydration", "treatment"]
+  },
+  {
+    "id": "prod_starter_set",
+    "name": "The Simple Start Set",
+    "description": "Cleanser, serum, and moisturizer in one bundle. Everything a first routine needs, nothing it doesn't.",
+    "key_benefits": ["Complete starter routine", "Saves vs buying separately", "No guesswork"],
+    "price": 79.0,
+    "tags": ["bundle", "starter", "value", "gifting"]
+  }
+]

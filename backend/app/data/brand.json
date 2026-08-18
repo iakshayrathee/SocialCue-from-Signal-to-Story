@@ -1,0 +1,34 @@
+{
+  "name": "Lumen",
+  "description": "A sustainable skincare brand making clean, science-backed essentials in refillable packaging. Small range, big on transparency and results.",
+  "tone_of_voice": {
+    "adjectives": ["warm", "confident", "clear", "science-backed", "unpretentious"],
+    "do": [
+      "Speak plainly and lead with the benefit, not the chemistry lecture.",
+      "Back claims with a concrete detail (ingredient %, a result, a routine step).",
+      "Sound like a knowledgeable friend, not a lab or a hype machine."
+    ],
+    "dont": [
+      "Don't over-promise or use 'miracle', 'cure', or absolute claims.",
+      "Don't use heavy jargon without translating it.",
+      "Don't chase trends that clash with the calm, credible feel."
+    ]
+  },
+  "target_audience": [
+    {
+      "name": "Conscious Minimalists",
+      "description": "25-40, values-driven buyers who want fewer, better products and care about sustainability and ingredient transparency.",
+      "size_proxy": 52000
+    },
+    {
+      "name": "Routine Optimizers",
+      "description": "22-35 skincare enthusiasts who research actives, read labels, and love a clear before/after and step-by-step routine.",
+      "size_proxy": 38000
+    },
+    {
+      "name": "Curious First-Timers",
+      "description": "18-28 newcomers building their first real routine who feel overwhelmed and want simple, trustworthy guidance.",
+      "size_proxy": 61000
+    }
+  ]
+}

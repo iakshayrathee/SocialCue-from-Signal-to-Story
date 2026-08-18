@@ -1,0 +1,200 @@
+[
+  {
+    "id": "post_001",
+    "platform": "instagram",
+    "format": "reel",
+    "theme": "behind-the-scenes",
+    "angle": "How our Barrier Repair Serum is blended in small batches",
+    "objective": "Trust",
+    "caption": "Ever wondered what 'small batch' actually means? Come inside the lab where every bottle of Barrier Serum starts. No shortcuts, just ceramides and patience.",
+    "posted_at": {"day": "Thursday", "time": "19:30"},
+    "metrics": {"reach": 48200, "engagement_rate": 0.094, "saves": 1820, "ctr": 0.041, "revenue_attributed": 5120.0}
+  },
+  {
+    "id": "post_002",
+    "platform": "tiktok",
+    "format": "reel",
+    "theme": "behind-the-scenes",
+    "angle": "A day packing your refill pods by hand",
+    "objective": "Trust",
+    "caption": "POV: it's refill day at Lumen. Here's how your moisturizer pod gets packed (and why we obsess over less waste).",
+    "posted_at": {"day": "Thursday", "time": "20:00"},
+    "metrics": {"reach": 61200, "engagement_rate": 0.108, "saves": 2410, "ctr": 0.038, "revenue_attributed": 4360.0}
+  },
+  {
+    "id": "post_003",
+    "platform": "instagram",
+    "format": "reel",
+    "theme": "routine",
+    "angle": "The 3-step evening routine for a stressed barrier",
+    "objective": "Discovery",
+    "caption": "Red, tight, reactive skin? Try this 3-step PM routine. Cleanse, Barrier Serum, seal with moisturizer. That's it.",
+    "posted_at": {"day": "Tuesday", "time": "18:45"},
+    "metrics": {"reach": 39800, "engagement_rate": 0.081, "saves": 1490, "ctr": 0.036, "revenue_attributed": 3980.0}
+  },
+  {
+    "id": "post_004",
+    "platform": "instagram",
+    "format": "carousel",
+    "theme": "education",
+    "angle": "Niacinamide, explained without the jargon",
+    "objective": "Trust",
+    "caption": "Niacinamide is on every label right now. Here's what it actually does for your skin, in plain English. Swipe.",
+    "posted_at": {"day": "Wednesday", "time": "12:30"},
+    "metrics": {"reach": 27300, "engagement_rate": 0.072, "saves": 2180, "ctr": 0.029, "revenue_attributed": 2210.0}
+  },
+  {
+    "id": "post_005",
+    "platform": "instagram",
+    "format": "carousel",
+    "theme": "education",
+    "angle": "Refillable packaging: how it works and what it saves",
+    "objective": "Trust",
+    "caption": "Buy the pod once. Refill forever. Here's exactly how much waste (and money) you save over a year. Swipe.",
+    "posted_at": {"day": "Thursday", "time": "19:00"},
+    "metrics": {"reach": 33100, "engagement_rate": 0.077, "saves": 2540, "ctr": 0.031, "revenue_attributed": 3020.0}
+  },
+  {
+    "id": "post_006",
+    "platform": "instagram",
+    "format": "static",
+    "theme": "product-shot",
+    "angle": "Barrier Repair Serum studio shot",
+    "objective": "Conversion",
+    "caption": "Meet your barrier's new best friend. Barrier Repair Serum, now back in stock.",
+    "posted_at": {"day": "Monday", "time": "09:15"},
+    "metrics": {"reach": 11200, "engagement_rate": 0.021, "saves": 190, "ctr": 0.018, "revenue_attributed": 1420.0}
+  },
+  {
+    "id": "post_007",
+    "platform": "instagram",
+    "format": "static",
+    "theme": "product-shot",
+    "angle": "Moisturizer flat lay",
+    "objective": "Conversion",
+    "caption": "Everyday Moisturizer. Refillable. Fragrance-free. Yours.",
+    "posted_at": {"day": "Monday", "time": "08:30"},
+    "metrics": {"reach": 9800, "engagement_rate": 0.018, "saves": 140, "ctr": 0.015, "revenue_attributed": 980.0}
+  },
+  {
+    "id": "post_008",
+    "platform": "tiktok",
+    "format": "reel",
+    "theme": "before-after",
+    "angle": "8 weeks of Barrier Serum on reactive skin",
+    "objective": "Conversion",
+    "caption": "8 weeks, one serum. Real customer, real redness fading. Barrier Repair Serum does the quiet work.",
+    "posted_at": {"day": "Friday", "time": "18:00"},
+    "metrics": {"reach": 52700, "engagement_rate": 0.099, "saves": 1980, "ctr": 0.052, "revenue_attributed": 7840.0}
+  },
+  {
+    "id": "post_009",
+    "platform": "instagram",
+    "format": "reel",
+    "theme": "founder-story",
+    "angle": "Why I started Lumen after my own barrier damage",
+    "objective": "Trust",
+    "caption": "I over-exfoliated my way to a wrecked barrier. Lumen is the brand I wish I'd had. Here's the story.",
+    "posted_at": {"day": "Thursday", "time": "19:45"},
+    "metrics": {"reach": 44100, "engagement_rate": 0.091, "saves": 1610, "ctr": 0.034, "revenue_attributed": 3510.0}
+  },
+  {
+    "id": "post_010",
+    "platform": "instagram",
+    "format": "story",
+    "theme": "poll",
+    "angle": "Poll: what's your biggest skin worry?",
+    "objective": "Discovery",
+    "caption": "Quick one: what's bugging your skin right now? Tap to vote.",
+    "posted_at": {"day": "Tuesday", "time": "17:00"},
+    "metrics": {"reach": 15600, "engagement_rate": 0.064, "saves": 60, "ctr": 0.022, "revenue_attributed": 320.0}
+  },
+  {
+    "id": "post_011",
+    "platform": "tiktok",
+    "format": "reel",
+    "theme": "routine",
+    "angle": "The lazy-girl 2-step morning routine",
+    "objective": "Discovery",
+    "caption": "No time? 2 steps. Cleanser then SPF. Your skin (and your snooze button) will thank you.",
+    "posted_at": {"day": "Wednesday", "time": "07:45"},
+    "metrics": {"reach": 41300, "engagement_rate": 0.086, "saves": 1370, "ctr": 0.033, "revenue_attributed": 2650.0}
+  },
+  {
+    "id": "post_012",
+    "platform": "instagram",
+    "format": "carousel",
+    "theme": "myth-busting",
+    "angle": "3 sunscreen myths that won't die",
+    "objective": "Discovery",
+    "caption": "No, you don't skip SPF on cloudy days. 3 myths, busted. Swipe and screenshot the last one.",
+    "posted_at": {"day": "Thursday", "time": "18:30"},
+    "metrics": {"reach": 35900, "engagement_rate": 0.079, "saves": 2270, "ctr": 0.030, "revenue_attributed": 2980.0}
+  },
+  {
+    "id": "post_013",
+    "platform": "instagram",
+    "format": "static",
+    "theme": "quote",
+    "angle": "Text-only inspirational quote",
+    "objective": "Discovery",
+    "caption": "Consistency beats intensity. Every single time.",
+    "posted_at": {"day": "Monday", "time": "10:00"},
+    "metrics": {"reach": 8700, "engagement_rate": 0.024, "saves": 210, "ctr": 0.009, "revenue_attributed": 140.0}
+  },
+  {
+    "id": "post_014",
+    "platform": "tiktok",
+    "format": "reel",
+    "theme": "behind-the-scenes",
+    "angle": "Sourcing squalane: where our ingredients come from",
+    "objective": "Trust",
+    "caption": "Where does squalane actually come from? We flew to find out. Transparency isn't a buzzword here.",
+    "posted_at": {"day": "Friday", "time": "19:15"},
+    "metrics": {"reach": 57400, "engagement_rate": 0.103, "saves": 2120, "ctr": 0.037, "revenue_attributed": 4180.0}
+  },
+  {
+    "id": "post_015",
+    "platform": "instagram",
+    "format": "reel",
+    "theme": "ugc",
+    "angle": "Customer duet: unboxing the Simple Start Set",
+    "objective": "Conversion",
+    "caption": "When a customer unboxes the Simple Start Set better than we ever could. Reposting with love.",
+    "posted_at": {"day": "Thursday", "time": "20:15"},
+    "metrics": {"reach": 46800, "engagement_rate": 0.095, "saves": 1740, "ctr": 0.049, "revenue_attributed": 6920.0}
+  },
+  {
+    "id": "post_016",
+    "platform": "instagram",
+    "format": "static",
+    "theme": "promo",
+    "angle": "Bundle discount announcement",
+    "objective": "Conversion",
+    "caption": "This week only: Simple Start Set, a little kinder on your wallet. Link in bio.",
+    "posted_at": {"day": "Monday", "time": "11:30"},
+    "metrics": {"reach": 13400, "engagement_rate": 0.028, "saves": 260, "ctr": 0.026, "revenue_attributed": 2240.0}
+  },
+  {
+    "id": "post_017",
+    "platform": "tiktok",
+    "format": "reel",
+    "theme": "education",
+    "angle": "Barrier repair in 60 seconds",
+    "objective": "Trust",
+    "caption": "Your skin barrier, explained in 60 seconds. Save this before you buy your next active.",
+    "posted_at": {"day": "Tuesday", "time": "19:00"},
+    "metrics": {"reach": 43600, "engagement_rate": 0.089, "saves": 1980, "ctr": 0.035, "revenue_attributed": 3120.0}
+  },
+  {
+    "id": "post_018",
+    "platform": "instagram",
+    "format": "story",
+    "theme": "restock",
+    "angle": "Barrier Serum restock countdown",
+    "objective": "Conversion",
+    "caption": "It's back in 3... 2... Barrier Serum restocks tonight. Set a reminder.",
+    "posted_at": {"day": "Thursday", "time": "17:30"},
+    "metrics": {"reach": 18900, "engagement_rate": 0.058, "saves": 90, "ctr": 0.044, "revenue_attributed": 3860.0}
+  }
+]
